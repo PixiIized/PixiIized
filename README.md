@@ -40,5 +40,5 @@ It's... a bit of a work in progress</p>
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=pixiIized&theme=dark'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pixiIized&layout=compact&theme=dark'><br>
- <img src='https://github.com/pixiIized/pixiIized/blob/output/github-contribution-grid-snake.svg'>
+ <img src='https://capsule-render.vercel.app/api?type=waving&color=00ffff&section=footer'>
 </div>
