@@ -30,7 +30,7 @@ Everything I do is done from my laptop running Windows 11 (deal with it).</p>
 A web-based recreation of Windows 95 that's easy to develop apps for
 <br><br>
 + <a href="https://pixilized.pages.dev">My Website</a><br>
-It's... a bit of a work in progress</p>
+It's a copy of this readme</p>
 
 <hr>
 <div align='right'>
