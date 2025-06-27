@@ -24,7 +24,7 @@ Everything I do is done from my laptop running Windows 11 (deal with it).</p>
 
 <hr>
 <div align='left'>
- <img src="https://capsule-render.vercel.app/api?type=speech&color=00ffff&fontColor=ffffff&text=Things%20I'm%working%20on&fontAlignY=60&reversal=true" />
+ <img src="https://capsule-render.vercel.app/api?type=speech&color=00ffff&fontColor=ffffff&text=Things%20I'm%20working%20on&fontAlignY=60&reversal=true" />
 </div>
 <p align='center'>I tend to start and cancel projects quite often, so don't expect much accuracy.<br><br>
 + Windows 25<br>
