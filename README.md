@@ -10,9 +10,8 @@
  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwindows25.pages.dev&label=Windows%2025">
  <img alt="Static Badge" src="https://img.shields.io/badge/certified%20cat%20%3A3-00ffff">
  <br>
- <img alt="Skill icons" src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,godot,figma">
-</div>
-
+ <img alt="Skill icons" src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,godot,figma"><br><br>
+ <a href='http://internetometer.com/give/50953'><img src='http://internetometer.com/image/50953.png'/></a>
 <hr>
 <div align='right'>
  <img src="https://capsule-render.vercel.app/api?type=speech&color=00ffff&fontColor=ffffff&text=A%20little%20about%20me&fontAlignY=60" />
