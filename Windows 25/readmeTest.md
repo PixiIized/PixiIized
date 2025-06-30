@@ -13,7 +13,14 @@
   <img src='https://skillicons.dev/icons?i=html,css,js,jquery'>
 </div>
 
-<h2 align="center"><img width="800px" src="https://raw.githubusercontent.com/PixiIized/PixiIized/refs/heads/main/Windows%2025/About.png"></h2>
+<h2 align="center"><img width="800px" src="https://raw.githubusercontent.com/PixiIized/PixiIized/refs/heads/main/Windows%2025/About.png" usemap="#about"></h2>
 <h2 align="center"><img width="800px" src="https://raw.githubusercontent.com/PixiIized/PixiIized/refs/heads/main/Windows%2025/Features.png"></h2>
 <h2 align="center"><img width="800px" src="https://raw.githubusercontent.com/PixiIized/PixiIized/refs/heads/main/Windows%2025/Usage.png"></h2>
 <h2 align="center"><img width="800px" src="https://raw.githubusercontent.com/PixiIized/PixiIized/refs/heads/main/Windows%2025/Develop.png"></h2>
+
+<map name="about">
+    <area target="" alt="" title="" href="https://github.com/PixiIized/PixiIized/blob/main/Windows%2025/readmeTest.md#" coords="175,169,34,105" shape="rect">
+    <area target="" alt="" title="" href="https://github.com/PixiIized/PixiIized/blob/main/Windows%2025/readmeTest.md#-1" coords="368,173,179,107" shape="rect">
+    <area target="" alt="" title="" href="https://github.com/PixiIized/PixiIized/blob/main/Windows%2025/readmeTest.md#-2" coords="372,107,512,168" shape="rect">
+    <area target="" alt="" title="" href="https://github.com/PixiIized/PixiIized/blob/main/Windows%2025/readmeTest.md#-3" coords="511,105,692,173" shape="rect">
+</map>
