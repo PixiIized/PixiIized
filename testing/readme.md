@@ -1,1 +1,2 @@
-[test](https://www.google.com/)
+[test](https://mybearworld.github.io/beardeer)
+[test](https://discord.com/channels/@me)
